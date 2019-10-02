@@ -1,7 +1,4 @@
-
-
-public class Main {
-    //ここからmainメソッド
+public class uranai_tmp {
     public static void main(String[] args) {
         System.out.println("ようこそ占いの館へ");
         System.out.println("あなたの名前を入力してください");
@@ -14,7 +11,5 @@ public class Main {
         System.out.println("占いの結果が出ました！");
         System.out.println(age + "歳の" + name + "さん、あなたの運気番号は" + fortune + "です");
         System.out.println("１：大吉　２：中吉　３：吉　４：凶");
-
-
     }
 }
